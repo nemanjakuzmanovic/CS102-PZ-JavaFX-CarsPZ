@@ -1,0 +1,15 @@
+2017/06/15 18:58:56
+Automobil: Alfa Romeo 147 1.9 JTDm
+Godiste: 2005
+Cena: 2999
+LINK: https://beta.polovniautomobili.com/putnicka-vozila/10067674/alfa-romeo-147-19-jtdm
+Ime: Bojan
+Prezime: Petrovic
+Grad: Ub
+Postanski Kod: 11000
+Adresa: Adrsa
+Broj tel. : 91919191
+JMBG: 902340912904
+Broj LK: 239049023
+Username: admin
+E-mail: admin@admin.com

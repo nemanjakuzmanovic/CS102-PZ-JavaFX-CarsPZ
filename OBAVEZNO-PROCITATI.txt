@@ -1,0 +1,12 @@
+Kada se pokrene aplikacija i pritisne meni dugme KUPI pa OK, dolazi do Freezovanja aplikacije,
+Nije moguce nista pritisnuti. Aplikacija radi! Medjutim skida u pozadini pomocu jsoupa odredjene informacije sa sajta polovniautomobili
+i nije moguce nista raditi, iako izgleda kao da je zaledila, posle 40 sekundi se moze nomralno nastaviti sa koriscenjem!
+Svaki put kada se pritisne dugme KUPI ponovo 40 sekudni se skidaju informacije sa sajta!
+
+username: admin
+password: admin
+
+za adminPane, i korisnika
+
+S postovanjem
+Nemanja Kuzmanovic 2851

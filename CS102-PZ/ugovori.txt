@@ -1,0 +1,62 @@
+-------------------------
+2017/06/14 21:14:29
+Automobil: Audi A6 V
+LINK: https://beta.polovniautomobili.com/putnicka-vozila/8608123/audi-a6-vservis-garancija
+Ime: Nemanja
+Prezime: Kuzmanovic
+Grad: Beograd
+Postanski Kod: 11147
+Adresa: Ratka Resanovica 1.deo br.7
+Broj tel. : 0649854155
+JMBG: 2501994773638
+Broj LK: 0001119923
+Username: admin
+E-mail: admin@admin.com
+-------------------------
+2017/06/15 18:28:43
+Automobil: Alfa Romeo 147 1.9 JTDm
+Godiste: 2005
+Cena: 2999
+LINK: https://beta.polovniautomobili.com/putnicka-vozila/10067674/alfa-romeo-147-19-jtdm
+Ime: Ivan
+Prezime: Ilic
+Grad: Beograd
+Postanski Kod: 11000
+Adresa: Beogradska 14
+Broj tel. : 06622424242
+JMBG: 11111111
+Broj LK: 1111111
+Username: admin
+E-mail: admin@admin.com
+-------------------------
+2017/06/15 18:58:56
+Automobil: Alfa Romeo 147 1.9 JTDm
+Godiste: 2005
+Cena: 2999
+LINK: https://beta.polovniautomobili.com/putnicka-vozila/10067674/alfa-romeo-147-19-jtdm
+Ime: Bojan
+Prezime: Petrovic
+Grad: Ub
+Postanski Kod: 11000
+Adresa: Adrsa
+Broj tel. : 91919191
+JMBG: 902340912904
+Broj LK: 239049023
+Username: admin
+E-mail: admin@admin.com
+-------------------------
+2017/06/15 20:30:38
+Automobil: Honda karavan super B
+Godiste: 2006
+Cena: 5000
+LINK: https://www.polovniautomobili.com/putnicka-vozila/10332462/volkswagen-touareg
+Ime: Ivan
+Prezime: Ilic
+Grad: Beograd
+Postanski Kod: 111010
+Adresa: Gandijeva 10
+Broj tel. : 055245522
+JMBG: 021521994920
+Broj LK: 00112233
+Username: admin
+E-mail: admin@admin.com
